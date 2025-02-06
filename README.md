@@ -19,4 +19,4 @@
 
 [twitter]: https://x.com/JosephValerio20
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/joseph-valerio-8a0631260
