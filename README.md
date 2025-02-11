@@ -1,6 +1,6 @@
 <h1> Hi there, my name is Joseph, I am an <a href="https://www.linkedin.com/in/joseph-valerio-8a0631260/">IT Professional.</a>  </h1>
 
-<h2>Information Technology Projects:</h2>
+<h2>Information Technology Projects:Lets go</h2>
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
