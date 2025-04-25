@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JayValerio/configure-ads)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JayValerio/azure-network-protocols)
-  - [Using DNS on Active Directory](https://github.com/JayValerio/azure-network-protocols)
+  - [Using DNS on Active Directory](https://github.com/JayValerio/AD-DNS)
 
 <h2>🤳Connect with me:</h2>
 
